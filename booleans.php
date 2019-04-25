@@ -8,3 +8,4 @@ if($validUser) {
 } else {
     echo "User is not valid";
 }
+
