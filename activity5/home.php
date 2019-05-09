@@ -22,6 +22,4 @@ $user = $_SESSION["user"];
     <h1>Hello <?php echo $user;?></h1>
 </body>
 
-
-
 </html>
